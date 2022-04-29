@@ -4,5 +4,5 @@
 2. wy新闻 wyxw_search.py 搜索关键词 获取所有搜索结果的 标题 作者 内容 时间 并按照时间排序写入 csv文件
 3. th顺 >数据中心 >财务分析> 报告数据获取 get_cookie 运行生产cookies
 4. B站 历史弹幕获取 protoc-3.17.3-win64 
-5. youtube 视频评论采集 (更换youtube_URL 即可 大陆需要挂梯子)
+5. youtube 视频评论采集 (更换youtube_URL 即可 大陆需要挂梯子) youtube-comment-scraper-main
 6. 新闻搜索 不登录显示200条获取解析
