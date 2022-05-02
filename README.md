@@ -6,3 +6,4 @@
 4. B站 历史弹幕获取 protoc-3.17.3-win64 
 5. youtube 视频评论采集 (更换youtube_URL 即可 大陆需要挂梯子) youtube-comment-scraper-main
 6. wy新闻搜索 不登录显示200条获取解析 搜索结果存为CSV文件 按日期排序 wyxw_search.py
+7. 大众点评 搜索店铺获取 店铺的星级 评价数 人均消费 dzdp.py
